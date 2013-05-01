@@ -132,6 +132,7 @@ irregular("child", "children");
 irregular("sex", "sexes");
 irregular("move", "moves");
 irregular("cow", "kine");
+irregular("campus", "campuses");
 
 uncountable("equipment");
 uncountable("information");
